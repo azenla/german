@@ -17,3 +17,16 @@
 | Welcher tag war gestern? | What day was yesterday? |
 | Welcher tag ist morgen? | What day is tomorrow? |
 | Wie ist das Wetter? | What is the weather? |
+
+# Responses
+
+|       Question       |       Answer             |
+| -------------------- | ------------------------ |
+| Wie heißt du?        | Ich heiße <name>.        |
+| Wo wohnst du?        | Ich wohne in <place>.    |
+| Woher kommst du?     | Ich komme aus <place>.   |
+| Was spielst du gern? | Ich spiele <activity> gern. |
+| Wie geht es dir?     | Es geht mir <feeling>. |
+| Wer ist das?         | Das ist <name>. |
+| Wie kommst du zur Schule? | Ich komme mit dem <transportation>. |
+| Was machst du gern in deiner Freizeit? | Ich <activity> gern. |
