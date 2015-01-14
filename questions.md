@@ -22,7 +22,7 @@
 
 |       Question       |       Answer             |
 | -------------------- | ------------------------ |
-| Wie heißt du?        | Ich heiße :name:.        |
+| Wie heißt du?        | Ich heiße **:name:**.        |
 | Wo wohnst du?        | Ich wohne in :place:.    |
 | Woher kommst du?     | Ich komme aus :place:.   |
 | Was spielst du gern? | Ich spiele :activity: gern. |
