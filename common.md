@@ -1,4 +1,4 @@
-# Common Words abd Phrases
+# Common Words and Phrases
 
 ## Words
 
