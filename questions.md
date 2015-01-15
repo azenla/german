@@ -17,6 +17,7 @@
 | Welcher tag war gestern? | What day was yesterday? |
 | Welcher tag ist morgen? | What day is tomorrow? |
 | Wie ist das Wetter? | What is the weather? |
+| Wohnst du in der Stadt oder auf dem Land? | Do you live in the city or in the country? |
 
 # Responses
 
