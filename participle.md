@@ -1,4 +1,4 @@
-# Participle
+# Participles
 
 | Weak Verb | Participle |
 | ------ | -------------- |
