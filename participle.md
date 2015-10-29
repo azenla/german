@@ -1,6 +1,6 @@
 # Participles
 
-| Weak Verb | Participle |
+| Verb | Participle |
 | ------ | -------------- |
 | machen | gemacht        |
 | wählen | gewählt        |
